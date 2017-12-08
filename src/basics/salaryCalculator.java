@@ -9,7 +9,7 @@ public class salaryCalculator {
 		
 		int hoursPerWeek = 40;
 		int weeksPerYear = 50;
-		double rate = 42.5;
+		double rate = 20;
 		
 		double salary = hoursPerWeek * weeksPerYear * rate;
 		

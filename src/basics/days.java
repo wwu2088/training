@@ -2,7 +2,7 @@ package basics;
 
 public class days {
 	public static void main(String[] args) {
-		String dayOfWeek = "Tuesday";
+		String dayOfWeek = "Wednesday";
 		
 		switch(dayOfWeek) {
 			case "Monday" :
